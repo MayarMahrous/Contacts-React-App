@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './App.css';
 import ListContacts from './ListContacts';
 import * as ContactsAPI from './ContactsAPI';
 import CreateContact from './CreateContact';
